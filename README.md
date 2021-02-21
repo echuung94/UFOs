@@ -8,7 +8,7 @@ The purpose of this challenge was to provide a more in-depth analysis of UFO sig
 In order to use the filter for multiple criteria at the same time, you simply head over to the 'Filter Search' area. Below the Filter Search, there are spaces where users can enter each a criteria in order to locate specific data.<br>
 ![webpage](https://github.com/echuung94/UFOs/blob/main/static/images/webpage.png) <br>
 
-As you can see below, the placeholder already has a city written in to give an example for users. Within the space, users will be able to type in the specific city (as shown in the image below) state, country, or the shape that they may want to search to better inspect the data for their personal use. 
+As you can see below, the placeholder already has a city written in to give an example for users. Within the space, users will be able to type in the specific city (as shown in the image below) state, country, or the shape that they may want to search to better inspect the data for their personal use. <br>
 ![search](https://github.com/echuung94/UFOs/blob/main/static/images/search%20.png)
 
 ## Summary: 
